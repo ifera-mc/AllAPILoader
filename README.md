@@ -2,7 +2,7 @@
 
 
 | HitCount | License | Poggit |
-|:--:|:--:|:--:|:--:|
+|:--:|:--:|:--:|
 |[![HitCount](http://hits.dwyl.io/JackMD/AllAPILoader.svg)](http://hits.dwyl.io/JackMD/AllAPILoader)|[![GitHub license](https://img.shields.io/github/license/JackMD/AllAPILoader.svg)](https://github.com/JackMD/AllAPILoader/blob/master/LICENSE)|[![Poggit-CI](https://poggit.pmmp.io/ci.shield/JackMD/AllAPILoader/AllAPILoader)](https://poggit.pmmp.io/ci/JackMD/AllAPILoader/AllAPILoader)
 
 **AllAPILoader** plugin fixed for McPe 1.5 and working on PocketMine-MP 3.x.x.
